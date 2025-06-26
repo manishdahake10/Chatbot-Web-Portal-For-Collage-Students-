@@ -1,4 +1,4 @@
-# Chatbot for College Application (Shiksha Sharthi)
+# Chatbot for College Application (Shiksha Sharthi) | Accadmic Project
 
 ## Overview
 This is a Chatbot for a College Application system built using PHP, JSON, HTML, CSS, JavaScript, Bootstrap, and SQL. The system enables users (students or prospective students) to interact with a chatbot for inquiries related to the college, such as course details, admission process, exam schedules, etc. It provides an interactive and engaging way for users to get answers to frequently asked questions and perform simple tasks.
